@@ -1,0 +1,4 @@
+# AppLocale.dev configuration file
+applocale:
+  api_key: <%= ENV["APPLOCALE_API_KEY"] %>
+  project_id: <%= ENV["APPLOCALE_PROJECT_ID"] %>
